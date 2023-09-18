@@ -53,12 +53,12 @@ Set email configuration
 
 ```bash
 MAIL_MAILER=smtp
-MAIL_HOST=mail.carpediem-project.com
-MAIL_PORT=465
-MAIL_USERNAME=nawatech@carpediem-project.com
-MAIL_PASSWORD=Dh%y^ZZdZNZC
-MAIL_ENCRYPTION=ssl
-MAIL_FROM_ADDRESS=nawatech@carpediem-project.com
+MAIL_HOST=
+MAIL_PORT=
+MAIL_USERNAME=
+MAIL_PASSWORD=
+MAIL_ENCRYPTION=
+MAIL_FROM_ADDRESS=
 ```
 
 Migrate Database from DB local
